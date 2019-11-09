@@ -1,0 +1,9 @@
+c:\users\bened\documents\visual studio 2015\Projects\CapsLockIndicator\CapsLockIndicator\bin\Debug\CapsLockIndicator.exe.config
+c:\users\bened\documents\visual studio 2015\Projects\CapsLockIndicator\CapsLockIndicator\bin\Debug\Caps_Active.ico
+c:\users\bened\documents\visual studio 2015\Projects\CapsLockIndicator\CapsLockIndicator\bin\Debug\Caps_Idle.ico
+c:\users\bened\documents\visual studio 2015\Projects\CapsLockIndicator\CapsLockIndicator\bin\Debug\CapsLockIndicator.exe
+c:\users\bened\documents\visual studio 2015\Projects\CapsLockIndicator\CapsLockIndicator\bin\Debug\CapsLockIndicator.pdb
+c:\users\bened\documents\visual studio 2015\Projects\CapsLockIndicator\CapsLockIndicator\obj\Debug\CapsLockIndicator.Properties.Resources.resources
+c:\users\bened\documents\visual studio 2015\Projects\CapsLockIndicator\CapsLockIndicator\obj\Debug\CapsLockIndicator.csproj.GenerateResource.Cache
+c:\users\bened\documents\visual studio 2015\Projects\CapsLockIndicator\CapsLockIndicator\obj\Debug\CapsLockIndicator.exe
+c:\users\bened\documents\visual studio 2015\Projects\CapsLockIndicator\CapsLockIndicator\obj\Debug\CapsLockIndicator.pdb
